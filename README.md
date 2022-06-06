@@ -40,5 +40,8 @@
 
 本项目的后端运行环境在CentOS7.2下完成的，所以项目中的MySQL运行在Docker容器里, Nginx，Redis, RabbitMQ等所有配置IP和端口号需要自行配置，或采用本项目中CentOS7默认环境，但.yml文件中的配置端口等个别配置需要根据你的环境进行配置
 
+前台门户系统地址：https://github.com/si6x/emporium-portal
+后台管理系统地址：https://github.com/si6x/emporium-manage-web
+
 
 
